@@ -9,7 +9,7 @@
 
 漫小肆 mxs12.cc 漫画下载器，**免费下载收费漫画**，基于 Python3 开发，多线程下载，自动生成 ZIP 导入漫画阅读器直接阅读。
 
-## **❗️ 项目合并 新版本移步「https://github.com/dddinmx/MangaDock」**
+## **❗️ 项目合并 新版本移步 https://github.com/dddinmx/MangaDock **
 
 **如果本项目对你有帮助，欢迎点个 Star⭐ 支持！你的支持是我持续更新维护的动力🙏**
 
